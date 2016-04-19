@@ -1,6 +1,7 @@
 
 ## SFDCLogBoss
 Electron/Node tool for analyzing SFDC Log files
+Extended from https://github.com/gescandon/SFDCLogBoss.git
 
 ##Requirements
 ### Node : https://nodejs.org/
